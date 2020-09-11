@@ -7,15 +7,13 @@ class Cao extends Animal {
 
   @override
   void comer() {
-    // TODO: implement comer
-    super.comer();
-
     print("O cão ${nome} se alimenta de ração");
+    super.comer();
   }
 
   @override
   void fazerSom() {
-    // TODO: implement fazerSom
+
     super.fazerSom();
     print("$nome faz AuAuAu!!!!\n");
   }
@@ -36,14 +34,13 @@ class Gato extends Animal {
 
   @override
   void comer() {
-    // TODO: implement comer
     super.comer();
     print("O gato ${nome} se alimenta de ração");
   }
 
   @override
   void fazerSom() {
-    // TODO: implement fazerSom
+  
     super.fazerSom();
     print("$nome faz MinhauMinhau!!!!");
   }
