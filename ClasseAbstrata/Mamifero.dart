@@ -13,7 +13,7 @@ class Mamifero extends ClassAnimal {
 
   @override
   String toString() {
-    print("nome: $nome\ncor: $cor\nambitente: $ambiente\namigável: $amigavel" );
-    return super.toString();
+   
+    return "Manifero:\nnome: $nome\ncor: $cor\nambitente: $ambiente\namigável: $amigavel";
   }
 }

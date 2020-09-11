@@ -13,7 +13,7 @@ class Passaro extends ClassAnimal {
 
    @override
   String toString() {
-    print("nome: $nome\ncor: $cor\nambitente: $ambiente\npenas: $penas" );
-    return super.toString();
+    
+    return "Passaro:\nnome: $nome\ncor: $cor\nambitente: $ambiente\npenas: $penas" ;
   }
 }
