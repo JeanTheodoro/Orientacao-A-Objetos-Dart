@@ -1,6 +1,6 @@
-# Orientação objetos com _Dart_
+# Orientação objetos e Coleções com _Dart_
 
-A Orientação a objetos é um paradigma muito ultilizado no desenvolvimento de softwere, permite criar abstrações que assemelham objetos que ultilizamos diariamente.
+A Orientação a objetos é um paradigma muito ultilizado no desenvolvimento de softwere, permite criar abstrações que assemelham a objetos que ultilizamos diariamente.
 
 # __Classe__
 
@@ -24,7 +24,7 @@ A Orientação a objetos é um paradigma muito ultilizado no desenvolvimento de 
 ``}``
 
 ## Estância da classe (Objeto)
-Na linguagem _Dart_ operador _new_ é faculdativo, ao instânciar o objeto, pode declárado ou não, fica a escolha do desenvolvedor como por exemplo:
+Na linguagem _Dart_ operador _new_ é faculdativo, ao instânciar o objeto, pode declára-lo ou não, fica a escolha do desenvolvedor como por exemplo:
 
 ``void main(){``
 
