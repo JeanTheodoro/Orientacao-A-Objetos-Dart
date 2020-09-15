@@ -6,13 +6,13 @@ A Orientação a objetos é um paradigma muito ultilizado no desenvolvimento de 
 * __Metodos Getter e Setter__
 * __Classe Abstrata__
 * __Herança e sobre escrita de métodos__
-* __Modificadores: _static_, _final_ e _const 
+* __Modificadores:__ _static_, _final_ e _const
 * __Coleções__
 
 ## 🚀 Configurações
 * __Versão do__ _Dart_ 2.92.
 
-* __Download__ ``$ https://github.com/JeanTheodoro/Linguagem-Dart.git``
+* __Download__ ``$ https://github.com/JeanTheodoro/Orientacao-A-Objetos-Dart.git``
 
 Para compilar os arquivos, deva-se navegar para a pasta raiz do projeto e escolher alguma pasta dos exemplos e execultar o comandos, por exemplo:
-``dart variaveis.dart``
+``dart main.dart``
